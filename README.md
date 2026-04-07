@@ -128,6 +128,16 @@ Frontend URL:
 
 - `http://localhost:5173`
 
+## UI Screenshots
+
+### Analytics Dashboard
+
+![Analytics Dashboard](docs/images/analytics-dashboard.png)
+
+### Admin Data Management
+
+![Admin Data Management](docs/images/admin-data-management.png)
+
 ## Data Import Workflow (Quarterly Update)
 
 1. Open Admin tab in UI
