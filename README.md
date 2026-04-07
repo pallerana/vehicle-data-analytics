@@ -4,20 +4,22 @@ This repository contains an end-to-end implementation for a UK vehicle analytics
 
 ## Problem Statement
 
-create an interactive website that provides analysis of trends for vehicles currently on the road in the UK. This should be for both total number and year-on-year changes.
-Analysis should be mainly be in the form of graphs, but some textual highlights may also be appropriate.
-Users will want to look at trends between types of powertrain (Petrol/Diesel/Electric etc) and also manufacturers, models etc.
-We expect a high number of visitors to this public site, and you should plan accordingly.
-It should be easy to update the data that powers the site. Provide an admin area to do this.
-The site should be clutter free, look good, and be easy to use.
-Stretch Goals (Any Options)
-Option 1: User enters their current vehicle and the system suggests comparable vehicles in different powertrains to see how they are being adopted.
-Example: I have a Skoda superb (petrol) how is that selling, and what are the top 10 popular comparable Size/power electric, diesel and other petrol models from other manufacturers, and how are they selling? Show a graph.
-Example: “Show me the top 10 electric cars in 2024” or “Compare diesel vs electric adoption from 2020 to 2024.”
-Option 2: AI-Generated Insights (LLM Integration)
-Use an LLM to generate textual summaries of trends based on the data.
-Example: “Electric vehicles grew by X% year-on-year. Whist Petrol and Diesel fell sharply. Even Hybrids Stagnated with a drop of 1%”
-Option 3: Statistical analysis to predict trends for powertrains / make / models
+- create an interactive website that provides analysis of trends for vehicles currently on the road in the UK. This should be for both total number and year-on-year changes.
+- Analysis should be mainly be in the form of graphs, but some textual highlights may also be appropriate.
+- Users will want to look at trends between types of powertrain (Petrol/Diesel/Electric etc) and also manufacturers, models etc.
+- We expect a high number of visitors to this public site, and you should plan accordingly.
+- It should be easy to update the data that powers the site. Provide an admin area to do this.
+- The site should be clutter free, look good, and be easy to use.
+
+### Stretch Goals (Any Options)
+
+- Option 1: User enters their current vehicle and the system suggests comparable vehicles in different powertrains to see how they are being adopted.
+  - Example: I have a Skoda superb (petrol) how is that selling, and what are the top 10 popular comparable Size/power electric, diesel and other petrol models from other manufacturers, and how are they selling? Show a graph.
+  - Example: “Show me the top 10 electric cars in 2024” or “Compare diesel vs electric adoption from 2020 to 2024.”
+- Option 2: AI-Generated Insights (LLM Integration)
+  - Use an LLM to generate textual summaries of trends based on the data.
+  - Example: “Electric vehicles grew by X% year-on-year. Whist Petrol and Diesel fell sharply. Even Hybrids Stagnated with a drop of 1%”
+- Option 3: Statistical analysis to predict trends for powertrains / make / models
 
 ## Implemented Solution
 
