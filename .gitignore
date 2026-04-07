@@ -1,0 +1,27 @@
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.env
+frontend/.env.*
+
+# Backend
+backend/.gradle/
+backend/build/
+backend/out/
+backend/.classpath
+backend/.project
+backend/.settings/
+
+# Logs
+*.log
+
+# Env / secrets
+.env
+.env.*
